@@ -12,7 +12,6 @@
 #ifndef MY_STRINGS_H
 #define MY_STRINGS_H
 
-// string function declarations
 /**
  * @brief Counts the number of vowels in the given string.
  * @return The number of vowels.

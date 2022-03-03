@@ -22,7 +22,8 @@
 #include <stdlib.h>
 
 #include "main.h"
-#include "my_strings.h"
+#include "MY_strings.h"
+
 
 int main(void)
 {
